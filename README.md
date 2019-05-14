@@ -10,4 +10,4 @@ Data Science Certificate - Assignment 01
 
 ### For you to fill out:  
 
-Hi, my name is `<your first name>` and the weirdest thing I have ever eaten is `<weird thing you've eaten>`.
+Hi, my name is `Scott` and the weirdest thing I have ever eaten is `earthworms`.
